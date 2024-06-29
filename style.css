@@ -1,0 +1,38 @@
+body{
+    font-family:sans-serif;
+   
+    margin: 0;
+    background-color: black;
+    color:white;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+#intro .name{
+    font-size: 1rem;
+    font-family:monospace
+
+
+}
+#intro .name span{
+    display: block;
+    font-family:sans-serif;
+    font-size: 4rem;
+    color: aqua;
+    font-weight: 300;
+
+}
+#intro p{
+    font-size: 1rem;
+}
+ a{
+    color: #ff17e4
+}
+a:hover{
+text-decoration: none;
+color: hotpink;
+}
+#intro{
+    padding: 4rem 1rem 10rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
